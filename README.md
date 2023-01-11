@@ -16,7 +16,7 @@ for movies and TV series from Douban, including rating, summary, casts, etc.
 
 In Jellyfin v10.6.0 or newer version, you can install this plugin by adding repository directly.
 
-Repository URL: https://raw.githubusercontent.com/Libitum/jellyfin-plugin-douban/master/manifest.json
+Repository URL: https://raw.githubusercontent.com/WhiteElytra/jellyfin-plugin-douban/master/manifest.json
 
 
 For version older than v10.6.0, please try the way below:
